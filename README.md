@@ -1,5 +1,7 @@
 # Deploy and Host Vaultwarden with Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/vaultwarden-137-password-manager?referralCode=20H68q)
+
 Vaultwarden is a lightweight, self-hosted password manager server written in Rust that works with the Bitwarden apps, browser extensions and CLI. This community template runs Vaultwarden 1.37.5 with PostgreSQL 18, invitation-only sign-up, a hashed admin token, and a daily encrypted backup of the whole vault to a Railway Bucket.
 
 ## About Hosting Vaultwarden
